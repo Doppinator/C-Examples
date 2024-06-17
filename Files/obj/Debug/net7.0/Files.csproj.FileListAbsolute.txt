@@ -1,0 +1,14 @@
+G:\NET\Files\bin\Debug\net7.0\Files.exe
+G:\NET\Files\bin\Debug\net7.0\Files.deps.json
+G:\NET\Files\bin\Debug\net7.0\Files.runtimeconfig.json
+G:\NET\Files\bin\Debug\net7.0\Files.dll
+G:\NET\Files\bin\Debug\net7.0\Files.pdb
+G:\NET\Files\obj\Debug\net7.0\Files.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET\Files\obj\Debug\net7.0\Files.AssemblyInfoInputs.cache
+G:\NET\Files\obj\Debug\net7.0\Files.AssemblyInfo.cs
+G:\NET\Files\obj\Debug\net7.0\Files.csproj.CoreCompileInputs.cache
+G:\NET\Files\obj\Debug\net7.0\Files.dll
+G:\NET\Files\obj\Debug\net7.0\refint\Files.dll
+G:\NET\Files\obj\Debug\net7.0\Files.pdb
+G:\NET\Files\obj\Debug\net7.0\Files.genruntimeconfig.cache
+G:\NET\Files\obj\Debug\net7.0\ref\Files.dll

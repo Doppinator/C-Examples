@@ -1,0 +1,14 @@
+G:\NET\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+G:\NET\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+G:\NET\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+G:\NET\Arrays\bin\Debug\net7.0\Arrays.exe
+G:\NET\Arrays\bin\Debug\net7.0\Arrays.deps.json
+G:\NET\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+G:\NET\Arrays\bin\Debug\net7.0\Arrays.dll
+G:\NET\Arrays\bin\Debug\net7.0\Arrays.pdb
+G:\NET\Arrays\obj\Debug\net7.0\Arrays.dll
+G:\NET\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+G:\NET\Arrays\obj\Debug\net7.0\Arrays.pdb
+G:\NET\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+G:\NET\Arrays\obj\Debug\net7.0\ref\Arrays.dll

@@ -1,0 +1,14 @@
+G:\NET\FieldsGetSet\bin\Debug\net7.0\FieldsGetSet.exe
+G:\NET\FieldsGetSet\bin\Debug\net7.0\FieldsGetSet.deps.json
+G:\NET\FieldsGetSet\bin\Debug\net7.0\FieldsGetSet.runtimeconfig.json
+G:\NET\FieldsGetSet\bin\Debug\net7.0\FieldsGetSet.dll
+G:\NET\FieldsGetSet\bin\Debug\net7.0\FieldsGetSet.pdb
+G:\NET\FieldsGetSet\obj\Debug\net7.0\FieldsGetSet.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET\FieldsGetSet\obj\Debug\net7.0\FieldsGetSet.AssemblyInfoInputs.cache
+G:\NET\FieldsGetSet\obj\Debug\net7.0\FieldsGetSet.AssemblyInfo.cs
+G:\NET\FieldsGetSet\obj\Debug\net7.0\FieldsGetSet.csproj.CoreCompileInputs.cache
+G:\NET\FieldsGetSet\obj\Debug\net7.0\FieldsGetSet.dll
+G:\NET\FieldsGetSet\obj\Debug\net7.0\refint\FieldsGetSet.dll
+G:\NET\FieldsGetSet\obj\Debug\net7.0\FieldsGetSet.pdb
+G:\NET\FieldsGetSet\obj\Debug\net7.0\FieldsGetSet.genruntimeconfig.cache
+G:\NET\FieldsGetSet\obj\Debug\net7.0\ref\FieldsGetSet.dll

@@ -1,0 +1,14 @@
+G:\NET\Fields\bin\Debug\net7.0\Fields.exe
+G:\NET\Fields\bin\Debug\net7.0\Fields.deps.json
+G:\NET\Fields\bin\Debug\net7.0\Fields.runtimeconfig.json
+G:\NET\Fields\bin\Debug\net7.0\Fields.dll
+G:\NET\Fields\bin\Debug\net7.0\Fields.pdb
+G:\NET\Fields\obj\Debug\net7.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET\Fields\obj\Debug\net7.0\Fields.AssemblyInfoInputs.cache
+G:\NET\Fields\obj\Debug\net7.0\Fields.AssemblyInfo.cs
+G:\NET\Fields\obj\Debug\net7.0\Fields.csproj.CoreCompileInputs.cache
+G:\NET\Fields\obj\Debug\net7.0\Fields.dll
+G:\NET\Fields\obj\Debug\net7.0\refint\Fields.dll
+G:\NET\Fields\obj\Debug\net7.0\Fields.pdb
+G:\NET\Fields\obj\Debug\net7.0\Fields.genruntimeconfig.cache
+G:\NET\Fields\obj\Debug\net7.0\ref\Fields.dll

@@ -1,0 +1,14 @@
+G:\NET\Fields2\bin\Debug\net7.0\Fields2.exe
+G:\NET\Fields2\bin\Debug\net7.0\Fields2.deps.json
+G:\NET\Fields2\bin\Debug\net7.0\Fields2.runtimeconfig.json
+G:\NET\Fields2\bin\Debug\net7.0\Fields2.dll
+G:\NET\Fields2\bin\Debug\net7.0\Fields2.pdb
+G:\NET\Fields2\obj\Debug\net7.0\Fields2.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET\Fields2\obj\Debug\net7.0\Fields2.AssemblyInfoInputs.cache
+G:\NET\Fields2\obj\Debug\net7.0\Fields2.AssemblyInfo.cs
+G:\NET\Fields2\obj\Debug\net7.0\Fields2.csproj.CoreCompileInputs.cache
+G:\NET\Fields2\obj\Debug\net7.0\Fields2.dll
+G:\NET\Fields2\obj\Debug\net7.0\refint\Fields2.dll
+G:\NET\Fields2\obj\Debug\net7.0\Fields2.pdb
+G:\NET\Fields2\obj\Debug\net7.0\Fields2.genruntimeconfig.cache
+G:\NET\Fields2\obj\Debug\net7.0\ref\Fields2.dll
